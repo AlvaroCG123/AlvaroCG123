@@ -17,7 +17,7 @@ My toolkit includes:
 -  🗄️ **Back-end & Databases:** Python, MySQL, PostgreSQL.
 -  🛠️ **Tools:** Git, GitHub.
 
-Beyond coding, I have a strong interest in **Hardware** and **PC building**. When I'm not studying or coding, you can often find me in the world of **competitive gaming**, especially playing Valorant or Minecraft. I’m always eager to learn new things and collaborate on interesting projects.
+Beyond coding, I have a strong interest in **Hardware** and **PC building**. When I'm not studying or coding, you can often find me in the world of **competitive gaming**, especially playing Valorant or Rocket League. I’m always eager to learn new things and collaborate on interesting projects.
 
 ###
 
