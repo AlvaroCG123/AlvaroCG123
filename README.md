@@ -22,36 +22,23 @@ Beyond coding, I have a strong interest in **Hardware** and **PC building**. Whe
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/álvaro-garcia-17a978278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/__cgarcia07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=AlvaroCG123&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord user" />
+  <a href="https://www.linkedin.com/in/álvaro-garcia-17a978278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://www.instagram.com/__cgarcia07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><a href="https://discord.com/users/AlvaroCG123" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=AlvaroCG123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCG123&layout=compact&theme=dracula&hide_border=false&height=150" height="150" alt="top languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=AlvaroCG123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCG123&layout=compact&theme=dracula&hide_border=false" height="160" alt="top languages" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/AlvaroCG123/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
