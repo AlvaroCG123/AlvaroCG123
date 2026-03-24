@@ -1,6 +1,6 @@
 name: Generate Pacman Retro
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda todo dia
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -19,13 +19,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # Aqui está a mágica do Pacman
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
           config_timezone: America/Sao_Paulo
-          
-          # Customização para o estilo Pacman Retro
           output_action: commit
           committer_branch: output
           committer_message: "Update Pacman Retro"
