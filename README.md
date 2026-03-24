@@ -48,8 +48,10 @@ Beyond coding, I have a strong interest in **Hardware** and **PC building**. Whe
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-retro.svg" alt="Pacman Retro" width="100%">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroCG123/AlvaroCG123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/AlvaroCG123/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
