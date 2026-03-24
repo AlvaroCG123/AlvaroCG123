@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Álvaro (AlvaroCG123)!</h1>
+<h1 align="center">Hey 👋 I'm Álvaro!</h1>
 
 ###
 
