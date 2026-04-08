@@ -28,7 +28,9 @@ Beyond coding, I have a strong interest in **Hardware** and **PC building**. Whe
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlvaroCG123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCG123&layout=compact&theme=dracula&hide_border=false" height="160" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlvaroCG123&show_icons=true&theme=dracula" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=AlvaroCG123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
 </div>
 
 ###
