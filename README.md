@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,mysql,postgres,git,github,py" height="60" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,prisma,express,react,html,css,mysql,git,github,py,vscode" height="60" alt="my skills" />
 </div>
 
 ###
